@@ -561,3 +561,23 @@ http://pfsv.io:80/0695849302/59593/573
 http://pfsv.io:80/0695849302/59593/30247
 #EXTINF:0 type="stream" channelId="2611" group="Canais | Telecine" logo="http://z4.vc/c1M", Telecine Touch HD
 http://pfsv.io:80/0695849302/59593/571
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine Top HD
+http://pfsv.io:80/0695849302/59593/43799
+#EXTINF:-1 tvg-logo="http://z4.vc/i31" group-title="Canais | Filmes e Séries",Cinemax FHD
+http://pfsv.io:80/0695849302/59593/275
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Filmes e Séries",Cinemax FHD[H265]
+http://pfsv.io:80/0695849302/59593/30215
+#EXTINF:-1 tvg-logo="http://z4.vc/i31" group-title="Canais | Filmes e Séries",CineMax HD
+http://pfsv.io:80/0695849302/59593/303
+#EXTINF:-1 tvg-logo="http://z4.vc/i31" group-title="Canais | Filmes e Séries",Cinemax SD
+http://pfsv.io:80/0695849302/59593/328
+#EXTINF:-1 tvg-logo="http://p6.vc/fZ5" group-title="Canais | Notícias",CNN Brasil FHD
+http://pfsv.io:80/0695849302/59593/513
+#EXTINF:-1 tvg-logo="http://p6.vc/fZ5" group-title="Canais | Notícias",CNN Brasil FHD[H265]
+http://pfsv.io:80/0695849302/59593/30198
+#EXTINF:-1 tvg-logo="http://p6.vc/fZ5" group-title="Canais | Notícias",CNN Brasil HD
+http://pfsv.io:80/0695849302/59593/517
+#EXTINF:-1 tvg-logo="http://p6.vc/fZ5" group-title="Canais | Notícias",CNN Brasil SD
+http://pfsv.io:80/0695849302/59593/523
+#EXTINF:-1 tvg-logo="http://p6.vc/fZ5" group-title="Canais | 4K",CNN Brasil [4K]
+http://pfsv.io:80/0695849302/59593/50865
