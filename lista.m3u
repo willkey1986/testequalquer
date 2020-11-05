@@ -9,7 +9,7 @@ http://pfsv.io:80/0695849302/59593/33400
 http://pfsv.io:80/0695849302/59593/33401
 #EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",#EVENTOS 05
 http://pfsv.io:80/0695849302/59593/33402
-#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 01
+#EXTINF:-1 tvg-logo="" group="Canais | Jogos & Eventos", DAZN 01
 http://pfsv.io:80/0695849302/59593/35076
 #EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 02
 http://pfsv.io:80/0695849302/59593/35077
