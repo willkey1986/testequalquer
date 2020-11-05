@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 01
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos 3", DAZN 01
 http://pfsv.io:80/0695849302/59593/35076
-#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 02
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos 3", DAZN 02
 http://pfsv.io:80/0695849302/59593/35077
-#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 03
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos 3", DAZN 03
 http://pfsv.io:80/0695849302/59593/35078
-#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 04
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos 3", DAZN 04
 http://pfsv.io:80/0695849302/59593/35079
-#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 05
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos 3", DAZN 05
 http://pfsv.io:80/0695849302/59593/35080
-#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 1
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos 3", DAZN 1
 http://pfsv.io:80/0695849302/59593/504
-#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 2
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos 3", DAZN 2
 http://pfsv.io:80/0695849302/59593/505
-#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 3
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos 3", DAZN 3
 http://pfsv.io:80/0695849302/59593/506
-#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 4
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos 3", DAZN 4
 http://pfsv.io:80/0695849302/59593/507
-#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 5
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos 3", DAZN 5
 http://pfsv.io:80/0695849302/59593/508
-#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 6
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos 3", DAZN 6
 http://pfsv.io:80/0695849302/59593/509
-#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", Ei Plus 01
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos 3", Ei Plus 01
 http://pfsv.io:80/0695849302/59593/495
-#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", Ei Plus 02
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos 3", Ei Plus 02
 http://pfsv.io:80/0695849302/59593/496
-#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", Ei Plus 03
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos 3", Ei Plus 03
 http://pfsv.io:80/0695849302/59593/497
-#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", Ei Plus 04
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos 3", Ei Plus 04
 http://pfsv.io:80/0695849302/59593/498
-#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", Ei Plus 05
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos 3", Ei Plus 05
 http://pfsv.io:80/0695849302/59593/499
-#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", Ei Plus 06
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos 3", Ei Plus 06
 http://pfsv.io:80/0695849302/59593/500
 #EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", A&E FHD[H265]
 http://pfsv.io:80/0695849302/59593/30227
