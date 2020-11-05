@@ -163,7 +163,7 @@ http://pfsv.io:80/0695849302/59593/30249
 http://pfsv.io:80/0695849302/59593/180
 #EXTINF:0 type="stream" channelId="-1" group="Canais | Documentários", Discovery Channel FHD[H265]
 http://pfsv.io:80/0695849302/59593/30260
-#EXTINF:0 type="stream" channelId="341" group="Canais | Documentários" logo="http://z4.vc/0v1", Discovery Channel HD
+#EXTINF:-1 tvg-logo="http://z4.vc/0v1" group="Canais | Documentários" logo="http://z4.vc/0v1", Discovery Channel HD
 http://pfsv.io:80/0695849302/59593/181
 #EXTINF:0 type="stream" channelId="-1" group="Canais | Documentários", Discovery Channel Science FHD[H265]
 http://pfsv.io:80/0695849302/59593/30255
