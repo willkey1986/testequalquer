@@ -1,0 +1,563 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 01
+http://pfsv.io:80/0695849302/59593/35076
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 02
+http://pfsv.io:80/0695849302/59593/35077
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 03
+http://pfsv.io:80/0695849302/59593/35078
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 04
+http://pfsv.io:80/0695849302/59593/35079
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 05
+http://pfsv.io:80/0695849302/59593/35080
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 1
+http://pfsv.io:80/0695849302/59593/504
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 2
+http://pfsv.io:80/0695849302/59593/505
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 3
+http://pfsv.io:80/0695849302/59593/506
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 4
+http://pfsv.io:80/0695849302/59593/507
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 5
+http://pfsv.io:80/0695849302/59593/508
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", DAZN 6
+http://pfsv.io:80/0695849302/59593/509
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", Ei Plus 01
+http://pfsv.io:80/0695849302/59593/495
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", Ei Plus 02
+http://pfsv.io:80/0695849302/59593/496
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", Ei Plus 03
+http://pfsv.io:80/0695849302/59593/497
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", Ei Plus 04
+http://pfsv.io:80/0695849302/59593/498
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", Ei Plus 05
+http://pfsv.io:80/0695849302/59593/499
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Jogos & Eventos", Ei Plus 06
+http://pfsv.io:80/0695849302/59593/500
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", A&E FHD[H265]
+http://pfsv.io:80/0695849302/59593/30227
+#EXTINF:0 type="stream" channelId="2503" group="Canais | Filmes e Séries" logo="http://z4.vc/uuz", A&E HD
+http://pfsv.io:80/0695849302/59593/299
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", AMC FHD[H265]
+http://pfsv.io:80/0695849302/59593/30228
+#EXTINF:0 type="stream" channelId="2501" group="Canais | Filmes e Séries" logo="http://z4.vc/GcF", AMC HD
+http://pfsv.io:80/0695849302/59593/300
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", AXN FHD[H265]
+http://pfsv.io:80/0695849302/59593/30206
+#EXTINF:0 type="stream" channelId="2246" group="Canais | Filmes e Séries" logo="http://z4.vc/ItW", AXN HD
+http://pfsv.io:80/0695849302/59593/301
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", Canal Brasil FHD[H265]
+http://pfsv.io:80/0695849302/59593/30233
+#EXTINF:0 type="stream" channelId="2576" group="Canais | Filmes e Séries" logo="http://z4.vc/bUk", Canal Brasil HD
+http://pfsv.io:80/0695849302/59593/322
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", Sony FHD[H265]
+http://pfsv.io:80/0695849302/59593/30216
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries" logo="http://z4.vc/FM8", Canal Sony FHD
+http://pfsv.io:80/0695849302/59593/274
+#EXTINF:0 type="stream" channelId="530" group="Canais | Filmes e Séries" logo="http://z4.vc/FM8", Canal Sony HD
+http://pfsv.io:80/0695849302/59593/302
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", Cine Sky 1
+http://pfsv.io:80/0695849302/59593/33130
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", Cine Sky 2
+http://pfsv.io:80/0695849302/59593/33131
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", Cine Sky 3
+http://pfsv.io:80/0695849302/59593/33132
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", Cine Sky 4
+http://pfsv.io:80/0695849302/59593/33133
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", Cine Sky 5
+http://pfsv.io:80/0695849302/59593/33134
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", Cine Sky 6
+http://pfsv.io:80/0695849302/59593/34005
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", Cine Sky 7
+http://pfsv.io:80/0695849302/59593/34006
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", Cine Sky 8
+http://pfsv.io:80/0695849302/59593/34007
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", Cine Sky 9
+http://pfsv.io:80/0695849302/59593/34008
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", Cine Sky 10
+http://pfsv.io:80/0695849302/59593/34009
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", Cinemax FHD[H265]
+http://pfsv.io:80/0695849302/59593/30215
+#EXTINF:0 type="stream" channelId="2888" group="Canais | Filmes e Séries" logo="http://z4.vc/i31", CineMax HD
+http://pfsv.io:80/0695849302/59593/303
+#EXTINF:0 type="stream" channelId="2632" group="Canais | Filmes e Séries" logo="http://z4.vc/T5S", Film&Arts SD
+http://pfsv.io:80/0695849302/59593/348
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", Fox FHD[H265]
+http://pfsv.io:80/0695849302/59593/30207
+#EXTINF:0 type="stream" channelId="208" group="Canais | Filmes e Séries" logo="http://z4.vc/OcS", Fox HD
+http://pfsv.io:80/0695849302/59593/304
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", Fox Life FHD[H265]
+http://pfsv.io:80/0695849302/59593/30208
+#EXTINF:0 type="stream" channelId="205" group="Canais | Filmes e Séries" logo="http://z4.vc/EsS", Fox Life HD
+http://pfsv.io:80/0695849302/59593/305
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", FX FHD[H265]
+http://pfsv.io:80/0695849302/59593/30211
+#EXTINF:0 type="stream" channelId="1304" group="Canais | Filmes e Séries" logo="http://z4.vc/GEc", FX HD
+http://pfsv.io:80/0695849302/59593/308
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", Life Time FHD[H265]
+http://pfsv.io:80/0695849302/59593/30212
+#EXTINF:0 type="stream" channelId="1200" group="Canais | Filmes e Séries" logo="http://z4.vc/ELX", Life Time HD
+http://pfsv.io:80/0695849302/59593/309
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", MegaPix FHD[H265]
+http://pfsv.io:80/0695849302/59593/30218
+#EXTINF:0 type="stream" channelId="2589" group="Canais | Filmes e Séries" logo="http://z4.vc/zPy", Megapix HD
+http://pfsv.io:80/0695849302/59593/310
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", Paramount FHD[H265]
+http://pfsv.io:80/0695849302/59593/30213
+#EXTINF:0 type="stream" channelId="1497" group="Canais | Filmes e Séries" logo="http://z4.vc/VL0", Paramount Channel HD
+http://pfsv.io:80/0695849302/59593/311
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", Space FHD[H265]
+http://pfsv.io:80/0695849302/59593/30220
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries" logo="http://z4.vc/ao2", Space FHD
+http://pfsv.io:80/0695849302/59593/282
+#EXTINF:0 type="stream" channelId="2896" group="Canais | Filmes e Séries" logo="http://z4.vc/ao2", Space HD
+http://pfsv.io:80/0695849302/59593/313
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", Studio Universal FHD[H265]
+http://pfsv.io:80/0695849302/59593/30221
+#EXTINF:0 type="stream" channelId="2147" group="Canais | Filmes e Séries" logo="http://z4.vc/AiX", Studio Universal HD
+http://pfsv.io:80/0695849302/59593/320
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", SYFY FHD[H265]
+http://pfsv.io:80/0695849302/59593/30222
+#EXTINF:0 type="stream" channelId="1192" group="Canais | Filmes e Séries" logo="http://z4.vc/j1e", SYFY HD
+http://pfsv.io:80/0695849302/59593/312
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", TBS FHD[H265]
+http://pfsv.io:80/0695849302/59593/30223
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries" logo="http://z4.vc/lAu", TBS HD
+http://pfsv.io:80/0695849302/59593/321
+#EXTINF:0 type="stream" channelId="895" group="Canais | Filmes e Séries" logo="http://z4.vc/9cn", TCM SD
+http://pfsv.io:80/0695849302/59593/339
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", TLC FHD[H265]
+http://pfsv.io:80/0695849302/59593/30229
+#EXTINF:0 type="stream" channelId="1040" group="Canais | Filmes e Séries" logo="http://z4.vc/WoP", TLC HD
+http://pfsv.io:80/0695849302/59593/314
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", TNT FHD[H265]
+http://pfsv.io:80/0695849302/59593/30224
+#EXTINF:0 type="stream" channelId="2900" group="Canais | Filmes e Séries" logo="http://z4.vc/94U", TNT HD
+http://pfsv.io:80/0695849302/59593/315
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", TNT Series FHD[H265]
+http://pfsv.io:80/0695849302/59593/30225
+#EXTINF:0 type="stream" channelId="2685" group="Canais | Filmes e Séries" logo="http://z4.vc/KEC", TNT Serie HD
+http://pfsv.io:80/0695849302/59593/316
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", TruTV FHD[H265]
+http://pfsv.io:80/0695849302/59593/30232
+#EXTINF:0 type="stream" channelId="2636" group="Canais | Filmes e Séries" logo="http://z4.vc/SHx", TruTV HD
+http://pfsv.io:80/0695849302/59593/323
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", Universal FHD[H265]
+http://pfsv.io:80/0695849302/59593/30230
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries" logo="http://z4.vc/wGT", Universal Channel HD
+http://pfsv.io:80/0695849302/59593/317
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", VH1 FHD[H265]
+http://pfsv.io:80/0695849302/59593/30231
+#EXTINF:0 type="stream" channelId="2902" group="Canais | Filmes e Séries" logo="http://z4.vc/InM", VH1 HD
+http://pfsv.io:80/0695849302/59593/318
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Filmes e Séries", Warner FHD[H265]
+http://pfsv.io:80/0695849302/59593/30226
+#EXTINF:0 type="stream" channelId="2903" group="Canais | Filmes e Séries" logo="http://z4.vc/4dc", Warner Channel HD
+http://pfsv.io:80/0695849302/59593/319
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Documentários", Animal Planet FHD[H265]
+http://pfsv.io:80/0695849302/59593/30248
+#EXTINF:0 type="stream" channelId="240" group="Canais | Documentários" logo="http://z4.vc/slU", Animal Planet HD
+http://pfsv.io:80/0695849302/59593/179
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Documentários", Arte 1 FHD[H265]
+http://pfsv.io:80/0695849302/59593/30249
+#EXTINF:0 type="stream" channelId="2572" group="Canais | Documentários" logo="http://z4.vc/I6b", Arte 1 HD
+http://pfsv.io:80/0695849302/59593/180
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Documentários", Discovery Channel FHD[H265]
+http://pfsv.io:80/0695849302/59593/30260
+#EXTINF:0 type="stream" channelId="341" group="Canais | Documentários" logo="http://z4.vc/0v1", Discovery Channel HD
+http://pfsv.io:80/0695849302/59593/181
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Documentários", Discovery Channel Science FHD[H265]
+http://pfsv.io:80/0695849302/59593/30255
+#EXTINF:0 type="stream" channelId="1508" group="Canais | Documentários" logo="http://z4.vc/KAc", Discovery Science HD
+http://pfsv.io:80/0695849302/59593/184
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Documentários", Discovery Channel Theater FHD[H265]
+http://pfsv.io:80/0695849302/59593/30256
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Documentários", Discovery Channel Turbo FHD[H265]
+http://pfsv.io:80/0695849302/59593/30257
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Documentários", Discovery Channel World FHD[H265]
+http://pfsv.io:80/0695849302/59593/30258
+#EXTINF:0 type="stream" channelId="2890" group="Canais | Documentários" logo="http://z4.vc/4Yx", Discovery World HD
+http://pfsv.io:80/0695849302/59593/187
+#EXTINF:0 type="stream" channelId="2724" group="Canais | Documentários" logo="http://z4.vc/y3l", Discovery Home & Health HD
+http://pfsv.io:80/0695849302/59593/183
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Documentários", Discovery Home&Health FHD[H265]
+http://pfsv.io:80/0695849302/59593/30254
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Documentários" logo="http://z4.vc/1cS", Discovery Turbo FHD
+http://pfsv.io:80/0695849302/59593/171
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Documentários", HGTV FHD
+http://pfsv.io:80/0695849302/59593/167
+#EXTINF:0 type="stream" channelId="1418" group="Canais | Documentários", HGTV HD
+http://pfsv.io:80/0695849302/59593/182
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Documentários", History Channel 2 FHD[H265]
+http://pfsv.io:80/0695849302/59593/30262
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Documentários" logo="http://z4.vc/cwN", History Channel 2 HD
+http://pfsv.io:80/0695849302/59593/188
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Documentários", History Channel FHD[H265]
+http://pfsv.io:80/0695849302/59593/30250
+#EXTINF:0 type="stream" channelId="1456" group="Canais | Documentários" logo="http://z4.vc/p68", History Channel HD
+http://pfsv.io:80/0695849302/59593/189
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Documentários", Investigacao Discovery Channel FHD[H265]
+http://pfsv.io:80/0695849302/59593/30259
+#EXTINF:0 type="stream" channelId="2842" group="Canais | Documentários" logo="http://z4.vc/vS4", Investigacao Discovery HD
+http://pfsv.io:80/0695849302/59593/190
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Documentários", National Geografic FHD[H265]
+http://pfsv.io:80/0695849302/59593/30251
+#EXTINF:0 type="stream" channelId="207" group="Canais | Documentários" logo="http://z4.vc/F7u", National Geographic HD
+http://pfsv.io:80/0695849302/59593/191
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Documentários" logo="http://z4.vc/Nzf", National Geographic Wild FHD
+http://pfsv.io:80/0695849302/59593/177
+#EXTINF:0 type="stream" channelId="206" group="Canais | Documentários" logo="http://z4.vc/Nzf", National Geographic Wild HD
+http://pfsv.io:80/0695849302/59593/192
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Documentários", Smithsonian FHD[H265]
+http://pfsv.io:80/0695849302/59593/30261
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Documentários", SmithSonian Channel HD
+http://pfsv.io:80/0695849302/59593/193
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Infantis", BOOMERANG H265
+http://pfsv.io:80/0695849302/59593/30267
+#EXTINF:0 type="stream" channelId="3330" group="Canais | Infantis" logo="http://z4.vc/DAg", Boomerang HD
+http://pfsv.io:80/0695849302/59593/138
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Infantis", CARTOON H265
+http://pfsv.io:80/0695849302/59593/30268
+#EXTINF:0 type="stream" channelId="2719" group="Canais | Infantis" logo="http://z4.vc/6WN", Cartoon Network HD
+http://pfsv.io:80/0695849302/59593/139
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Infantis", DISC KIDS [H265]
+http://pfsv.io:80/0695849302/59593/30269
+#EXTINF:0 type="stream" channelId="2837" group="Canais | Infantis" logo="http://z4.vc/N8Y", Discovery Kids HD
+http://pfsv.io:80/0695849302/59593/140
+#EXTINF:0 type="stream" channelId="2720" group="Canais | Infantis" logo="http://z4.vc/6MT", Disney Channel HD
+http://pfsv.io:80/0695849302/59593/141
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Infantis", DISNEY H265
+http://pfsv.io:80/0695849302/59593/30270
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Infantis", DISNEY JR H265
+http://pfsv.io:80/0695849302/59593/30271
+#EXTINF:0 type="stream" channelId="1198" group="Canais | Infantis" logo="http://z4.vc/n2T", Disney XD SD
+http://pfsv.io:80/0695849302/59593/155
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Infantis", GLOOB H265
+http://pfsv.io:80/0695849302/59593/30266
+#EXTINF:0 type="stream" channelId="2581" group="Canais | Infantis" logo="http://z4.vc/EuT", Gloob HD
+http://pfsv.io:80/0695849302/59593/142
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Infantis", GLOOBINHO H265
+http://pfsv.io:80/0695849302/59593/30274
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Infantis", Gloobinho HD
+http://pfsv.io:80/0695849302/59593/1068
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Infantis", NAT GEO KIDS H265
+http://pfsv.io:80/0695849302/59593/30272
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Infantis" logo="http://z4.vc/yTi", NatGeo Kids HD
+http://pfsv.io:80/0695849302/59593/143
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Infantis" logo="http://z4.vc/pw6", Disney Jr HD
+http://pfsv.io:80/0695849302/59593/146
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Infantis", NICK JR H265
+http://pfsv.io:80/0695849302/59593/30263
+#EXTINF:0 type="stream" channelId="2710" group="Canais | Infantis" logo="http://z4.vc/HZk", Nick JR HD
+http://pfsv.io:80/0695849302/59593/144
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Infantis", NICKELODEON H265
+http://pfsv.io:80/0695849302/59593/30264
+#EXTINF:0 type="stream" channelId="334" group="Canais | Infantis" logo="http://z4.vc/NFO", Nickelodeon HD
+http://pfsv.io:80/0695849302/59593/145
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Infantis", PlayKids FHD
+http://pfsv.io:80/0695849302/59593/137
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Infantis", PlayKids HD
+http://pfsv.io:80/0695849302/59593/147
+#EXTINF:0 type="stream" channelId="2639" group="Canais | Infantis" logo="http://z4.vc/7YA", Tooncast SD
+http://pfsv.io:80/0695849302/59593/160
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Infantis", TV RA TIM BUM H265
+http://pfsv.io:80/0695849302/59593/30265
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Infantis" logo="http://z4.vc/I7O", TV RA-TIM-BUM HD
+http://pfsv.io:80/0695849302/59593/148
+#EXTINF:0 type="stream" channelId="2908" group="Canais | Infantis", Zoomoo SD
+http://pfsv.io:80/0695849302/59593/163
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Abertos" logo="http://p6.vc/fZ6", BAND FHD [H265]
+http://pfsv.io:80/0695849302/59593/30181
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Abertos" logo="http://z4.vc/68l", Band SP HD
+http://pfsv.io:80/0695849302/59593/50
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Abertos", FUTURA  FHD[H265]
+http://pfsv.io:80/0695849302/59593/30182
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Abertos" logo="http://z4.vc/XaX", Futura HD
+http://pfsv.io:80/0695849302/59593/51
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Abertos" logo="http://z4.vc/Tv1", RecordTV SP FHD
+http://pfsv.io:80/0695849302/59593/45
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Abertos" logo="http://z4.vc/Tv1", RecordTV SP HD
+http://pfsv.io:80/0695849302/59593/52
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Abertos", RECORDTV H265
+http://pfsv.io:80/0695849302/59593/30178
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Abertos" logo="http://p6.vc/f0q", RedeTv! FHD [H265]
+http://pfsv.io:80/0695849302/59593/30180
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Abertos" logo="http://p6.vc/f0d", SBT FHD [H265]
+http://pfsv.io:80/0695849302/59593/30179
+#EXTINF:0 type="stream" channelId="2571" group="Canais | Abertos" logo="http://z4.vc/XKO", SBT HD
+http://pfsv.io:80/0695849302/59593/55
+#EXTINF:0 type="stream" channelId="2466" group="Canais | Abertos", TV Brasil SD
+http://pfsv.io:80/0695849302/59593/89
+#EXTINF:0 type="stream" channelId="2566" group="Canais | Abertos" logo="http://z4.vc/PVk", TV Camara SD
+http://pfsv.io:80/0695849302/59593/74
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Abertos", TV CULTURA  FHD[H265]
+http://pfsv.io:80/0695849302/59593/30183
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Abertos" logo="http://z4.vc/MJK", TV Cultura HD
+http://pfsv.io:80/0695849302/59593/64
+#EXTINF:0 type="stream" channelId="2569" group="Canais | Abertos" logo="http://z4.vc/AME", TV Escola SD
+http://pfsv.io:80/0695849302/59593/75
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Abertos" logo="http://z4.vc/ARG", TV Gazeta SP FHD
+http://pfsv.io:80/0695849302/59593/49
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Abertos" logo="http://z4.vc/ARG", TV Gazeta SP HD
+http://pfsv.io:80/0695849302/59593/56
+#EXTINF:0 type="stream" channelId="2570" group="Canais | Abertos" logo="http://z4.vc/VtA", TV Justica SD
+http://pfsv.io:80/0695849302/59593/73
+#EXTINF:0 type="stream" channelId="2567" group="Canais | Abertos" logo="http://z4.vc/HLw", TV Senado SD
+http://pfsv.io:80/0695849302/59593/72
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Notícias" logo="http://p6.vc/fZ2", Band News FHD[H265]
+http://pfsv.io:80/0695849302/59593/30195
+#EXTINF:0 type="stream" channelId="2573" group="Canais | Notícias" logo="http://p6.vc/fZ2", Band News HD
+http://pfsv.io:80/0695849302/59593/514
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Notícias" logo="http://p6.vc/fZ5", CNN Brasil FHD[H265]
+http://pfsv.io:80/0695849302/59593/30198
+#EXTINF:0 type="stream" channelId="4647" group="Canais | Notícias" logo="http://p6.vc/fZ5", CNN Brasil HD
+http://pfsv.io:80/0695849302/59593/517
+#EXTINF:0 type="stream" channelId="3800" group="Canais | Notícias", Globo Internacional
+http://pfsv.io:80/0695849302/59593/519
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Notícias" logo="http://p6.vc/fZ4", Globo News FHD[H265]
+http://pfsv.io:80/0695849302/59593/30196
+#EXTINF:0 type="stream" channelId="2893" group="Canais | Notícias" logo="http://p6.vc/fZ4", Globo News HD
+http://pfsv.io:80/0695849302/59593/516
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Notícias" logo="http://p6.vc/fZ3", Record News FHD
+http://pfsv.io:80/0695849302/59593/511
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Notícias" logo="http://p6.vc/fZ3", Record News HD
+http://pfsv.io:80/0695849302/59593/515
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Esportes", Band Sports FHD[H265]
+http://pfsv.io:80/0695849302/59593/30275
+#EXTINF:0 type="stream" channelId="2575" group="Canais | Esportes" logo="http://z4.vc/mPu", Band Sports HD
+http://pfsv.io:80/0695849302/59593/256
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Esportes", Combate FHD[H265]
+http://pfsv.io:80/0695849302/59593/30276
+#EXTINF:0 type="stream" channelId="2595" group="Canais | Esportes" logo="http://z4.vc/na3", COMBATE HD
+http://pfsv.io:80/0695849302/59593/257
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Esportes", ESPN 2 FHD[H265]
+http://pfsv.io:80/0695849302/59593/30277
+#EXTINF:0 type="stream" channelId="3746" group="Canais | Esportes" logo="http://z4.vc/oUp", ESPN 2 HD
+http://pfsv.io:80/0695849302/59593/258
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Esportes", ESPN Brasil FHD[H265]
+http://pfsv.io:80/0695849302/59593/30280
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Esportes" logo="http://z4.vc/2zo", ESPN Brasil HD
+http://pfsv.io:80/0695849302/59593/259
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Esportes", ESPN Extra FHD[H265]
+http://pfsv.io:80/0695849302/59593/30278
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Esportes" logo="http://z4.vc/2Db", ESPN Extra HD
+http://pfsv.io:80/0695849302/59593/260
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Esportes", ESPN FHD[H265]
+http://pfsv.io:80/0695849302/59593/30281
+#EXTINF:0 type="stream" channelId="1263" group="Canais | Esportes" logo="http://z4.vc/GbD", ESPN HD
+http://pfsv.io:80/0695849302/59593/261
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Esportes", Fox Premium 1 FHD[H265]
+http://pfsv.io:80/0695849302/59593/30209
+#EXTINF:0 type="stream" channelId="2604" group="Canais | Esportes" logo="http://z4.vc/C2g", Fox Premium 1 HD
+http://pfsv.io:80/0695849302/59593/306
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Esportes", Fox Premium 2 FHD[H265]
+http://pfsv.io:80/0695849302/59593/30210
+#EXTINF:0 type="stream" channelId="2607" group="Canais | Esportes" logo="http://z4.vc/O5F", Fox Premium 2 HD
+http://pfsv.io:80/0695849302/59593/307
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Esportes", Fox Sports 2 FHD[H265]
+http://pfsv.io:80/0695849302/59593/30282
+#EXTINF:0 type="stream" channelId="179" group="Canais | Esportes" logo="http://z4.vc/Qen", Fox Sports 2 HD
+http://pfsv.io:80/0695849302/59593/263
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Esportes", Fox Sports FHD[H265]
+http://pfsv.io:80/0695849302/59593/30283
+#EXTINF:0 type="stream" channelId="2891" group="Canais | Esportes" logo="http://z4.vc/nWk", Fox Sports HD
+http://pfsv.io:80/0695849302/59593/262
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Esportes", OFF FHD[H265]
+http://pfsv.io:80/0695849302/59593/30279
+#EXTINF:0 type="stream" channelId="2594" group="Canais | Esportes" logo="http://z4.vc/DH2", OFF HD
+http://pfsv.io:80/0695849302/59593/264
+#EXTINF:0 type="stream" channelId="-1" group="Art & Music", BIS  FHD[H265]
+http://pfsv.io:80/0695849302/59593/30177
+#EXTINF:0 type="stream" channelId="2718" group="Art & Music" logo="http://z4.vc/XaE", BIS HD
+http://pfsv.io:80/0695849302/59593/18
+#EXTINF:0 type="stream" channelId="-1" group="Art & Music", MTV  FHD[H265]
+http://pfsv.io:80/0695849302/59593/30175
+#EXTINF:0 type="stream" channelId="-1" group="Art & Music" logo="http://z4.vc/zg9", MTV FHD
+http://pfsv.io:80/0695849302/59593/1
+#EXTINF:0 type="stream" channelId="-1" group="Art & Music", FashionTV FHD
+http://pfsv.io:80/0695849302/59593/38526
+#EXTINF:0 type="stream" channelId="-1" group="Art & Music", MTV LIVE  FHD[H265]
+http://pfsv.io:80/0695849302/59593/30172
+#EXTINF:0 type="stream" channelId="237" group="Art & Music" logo="http://z4.vc/PWM", MTV Live HD
+http://pfsv.io:80/0695849302/59593/13
+#EXTINF:0 type="stream" channelId="-1" group="Art & Music", MULTISHOW  FHD[H265]
+http://pfsv.io:80/0695849302/59593/30173
+#EXTINF:0 type="stream" channelId="2590" group="Art & Music" logo="http://z4.vc/6Yx", MultiShow HD
+http://pfsv.io:80/0695849302/59593/16
+#EXTINF:0 type="stream" channelId="-1" group="Art & Music" logo="http://z4.vc/odD", Music BOX BRASIL FHD
+http://pfsv.io:80/0695849302/59593/4
+#EXTINF:0 type="stream" channelId="-1" group="Art & Music", MUSIC BOX BRAZIL  FHD[H265]
+http://pfsv.io:80/0695849302/59593/30176
+#EXTINF:0 type="stream" channelId="-1" group="Art & Music" logo="http://z4.vc/odD", Music Box BRASIL HD
+http://pfsv.io:80/0695849302/59593/17
+#EXTINF:0 type="stream" channelId="2627" group="Art & Music" logo="http://z4.vc/KZh", VH1 Mega Hits SD
+http://pfsv.io:80/0695849302/59593/8
+#EXTINF:0 type="stream" channelId="-1" group="Art & Music", WOOHOO  FHD[H265]
+http://pfsv.io:80/0695849302/59593/30174
+#EXTINF:0 type="stream" channelId="-1" group="Art & Music" logo="http://z4.vc/fUJ", WOOHOO HD
+http://pfsv.io:80/0695849302/59593/14
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Variedades", Chef TV HD
+http://pfsv.io:80/0695849302/59593/32543
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Variedades" logo="http://p6.vc/f0u", Comedy Central FHD [H265]
+http://pfsv.io:80/0695849302/59593/30191
+#EXTINF:0 type="stream" channelId="1191" group="Canais | Variedades" logo="http://z4.vc/0Ww", Comedy Central HD
+http://pfsv.io:80/0695849302/59593/106
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Variedades" logo="http://z4.vc/fVn", Curta! FHD
+http://pfsv.io:80/0695849302/59593/98
+#EXTINF:0 type="stream" channelId="2577" group="Canais | Variedades" logo="http://z4.vc/fVn", Curta! HD
+http://pfsv.io:80/0695849302/59593/107
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Variedades" logo="http://p6.vc/f0r", E! FHD [H265]
+http://pfsv.io:80/0695849302/59593/30186
+#EXTINF:0 type="stream" channelId="3124" group="Canais | Variedades" logo="http://z4.vc/HbJ", E! HD
+http://pfsv.io:80/0695849302/59593/108
+#EXTINF:0 type="stream" channelId="281" group="Canais | Variedades", FashionTV HD
+http://pfsv.io:80/0695849302/59593/38525
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Variedades", FashionTV FHD [H265]
+http://pfsv.io:80/0695849302/59593/30184
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Variedades" logo="http://p6.vc/fZ1", Fish Tv FHD [H265]
+http://pfsv.io:80/0695849302/59593/30185
+#EXTINF:0 type="stream" channelId="2633" group="Canais | Variedades" logo="http://z4.vc/ILy", Fish Tv HD
+http://pfsv.io:80/0695849302/59593/109
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Variedades" logo="http://p6.vc/fZY", Food Network FHD [H265]
+http://pfsv.io:80/0695849302/59593/30193
+#EXTINF:0 type="stream" channelId="1720" group="Canais | Variedades" logo="http://p6.vc/fZY", Food Network HD
+http://pfsv.io:80/0695849302/59593/110
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Variedades" logo="http://p6.vc/f0s", GNT FHD [H265]
+http://pfsv.io:80/0695849302/59593/30187
+#EXTINF:0 type="stream" channelId="2722" group="Canais | Variedades" logo="http://z4.vc/Z8a", GNT HD
+http://pfsv.io:80/0695849302/59593/111
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Variedades" logo="http://p6.vc/fZZ", Mais GloboSat FHD [H265]
+http://pfsv.io:80/0695849302/59593/30194
+#EXTINF:0 type="stream" channelId="2580" group="Canais | Variedades" logo="http://p6.vc/fZZ", Mais GloboSat HD
+http://pfsv.io:80/0695849302/59593/112
+#EXTINF:0 type="stream" channelId="2499" group="Canais | Variedades", Polishop TV SD
+http://pfsv.io:80/0695849302/59593/124
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Variedades" logo="http://p6.vc/fZ0", Prime Box Brasil FHD [H265]
+http://pfsv.io:80/0695849302/59593/30190
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Variedades" logo="http://p6.vc/fZ0", Prime Box Brasil HD
+http://pfsv.io:80/0695849302/59593/113
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Variedades" logo="http://p6.vc/f0t", Travel Box Brasil FHD [H265]
+http://pfsv.io:80/0695849302/59593/30188
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Variedades" logo="http://p6.vc/f0n", Tv Gazeta FHD [H265]
+http://pfsv.io:80/0695849302/59593/30189
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Variedades" logo="http://z4.vc/6NU", Viva FHD
+http://pfsv.io:80/0695849302/59593/105
+#EXTINF:0 type="stream" channelId="984" group="Canais | Variedades" logo="http://z4.vc/6NU", Viva SD
+http://pfsv.io:80/0695849302/59593/123
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Globo" logo="http://z4.vc/osc", Globo Brasilia FHD
+http://pfsv.io:80/0695849302/59593/360
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Globo" logo="http://z4.vc/osc", Globo Brasilia HD
+http://pfsv.io:80/0695849302/59593/385
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Globo", Globo RJ FHD[H265]
+http://pfsv.io:80/0695849302/59593/30204
+#EXTINF:0 type="stream" channelId="2892" group="Canais | Globo" logo="http://z4.vc/osc", Globo RJ HD
+http://pfsv.io:80/0695849302/59593/392
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Globo", Globo SP FHD[H265]
+http://pfsv.io:80/0695849302/59593/30205
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Globo" logo="http://z4.vc/osc", Globo SP HD
+http://pfsv.io:80/0695849302/59593/394
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Globo" logo="http://z4.vc/osc", Globo Tv Liberal Belem Sd
+http://pfsv.io:80/0695849302/59593/455
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Globo" logo="http://z4.vc/osc", Globo Tv Mirante Sao Luis FHD
+http://pfsv.io:80/0695849302/59593/368
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Globo" logo="http://z4.vc/osc", Globo Tv Mirante Sao Luis HD
+http://pfsv.io:80/0695849302/59593/403
+#EXTINF:0 type="stream" channelId="-1" group="Canais | HBO" logo="http://p6.vc/f0w", HBO 2 FHD [H265]
+http://pfsv.io:80/0695849302/59593/30234
+#EXTINF:0 type="stream" channelId="935" group="Canais | HBO" logo="http://z4.vc/8E9", HBO 2 SD
+http://pfsv.io:80/0695849302/59593/481
+#EXTINF:0 type="stream" channelId="-1" group="Canais | HBO" logo="http://p6.vc/f0x", HBO Family FHD [H265]
+http://pfsv.io:80/0695849302/59593/30235
+#EXTINF:0 type="stream" channelId="2584" group="Canais | HBO" logo="http://z4.vc/kwk", HBO Family HD
+http://pfsv.io:80/0695849302/59593/473
+#EXTINF:0 type="stream" channelId="-1" group="Canais | HBO" logo="http://p6.vc/f0y", HBO FHD [H265]
+http://pfsv.io:80/0695849302/59593/30236
+#EXTINF:0 type="stream" channelId="1330" group="Canais | HBO" logo="http://z4.vc/Tjb", HBO HD
+http://pfsv.io:80/0695849302/59593/474
+#EXTINF:0 type="stream" channelId="-1" group="Canais | HBO" logo="http://p6.vc/f0B", HBO Mundi FHD [H265]
+http://pfsv.io:80/0695849302/59593/30239
+#EXTINF:0 type="stream" channelId="2725" group="Canais | HBO" logo="http://z4.vc/xDI", HBO Mundi HD
+http://pfsv.io:80/0695849302/59593/477
+#EXTINF:0 type="stream" channelId="-1" group="Canais | HBO" logo="http://p6.vc/f0z", HBO Plus FHD [H265]
+http://pfsv.io:80/0695849302/59593/30237
+#EXTINF:0 type="stream" channelId="2585" group="Canais | HBO" logo="http://z4.vc/EFq", HBO Plus HD
+http://pfsv.io:80/0695849302/59593/475
+#EXTINF:0 type="stream" channelId="-1" group="Canais | HBO" logo="http://p6.vc/f0D", HBO Pop FHD [H265]
+http://pfsv.io:80/0695849302/59593/30241
+#EXTINF:0 type="stream" channelId="-1" group="Canais | HBO" logo="http://z4.vc/xDI", HBO Pop HD
+http://pfsv.io:80/0695849302/59593/479
+#EXTINF:0 type="stream" channelId="361" group="Canais | HBO" logo="http://z4.vc/xDI", HBO Pop SD
+http://pfsv.io:80/0695849302/59593/487
+#EXTINF:0 type="stream" channelId="-1" group="Canais | HBO" logo="http://p6.vc/f0A", HBO Signature FHD [H265]
+http://pfsv.io:80/0695849302/59593/30238
+#EXTINF:0 type="stream" channelId="2583" group="Canais | HBO" logo="http://z4.vc/1lN", HBO Signature HD
+http://pfsv.io:80/0695849302/59593/476
+#EXTINF:0 type="stream" channelId="-1" group="Canais | HBO" logo="http://p6.vc/f0C", HBO Xtreme FHD [H265]
+http://pfsv.io:80/0695849302/59593/30240
+#EXTINF:0 type="stream" channelId="-1" group="Canais | HBO" logo="http://z4.vc/xDI", HBO Xtreme HD
+http://pfsv.io:80/0695849302/59593/478
+#EXTINF:0 type="stream" channelId="2587" group="Canais | HBO" logo="http://z4.vc/xDI", HBO Xtreme SD
+http://pfsv.io:80/0695849302/59593/486
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Premiere" logo="http://p6.vc/f0a", Premiere Clubes FHD [H265]
+http://pfsv.io:80/0695849302/59593/30287
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Premiere" logo="http://p6.vc/f0a", Premiere 2 FHD [H265]
+http://pfsv.io:80/0695849302/59593/30284
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Premiere" logo="http://p6.vc/f0a", Premiere 3  FHD [H265]
+http://pfsv.io:80/0695849302/59593/30285
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Premiere" logo="http://p6.vc/f0a", Premiere 4 FHD [H265]
+http://pfsv.io:80/0695849302/59593/30288
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Premiere" logo="http://p6.vc/f0a", Premiere 5 FHD [H265]
+http://pfsv.io:80/0695849302/59593/30286
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Premiere" logo="http://p6.vc/f0a", Premiere 6 FHD [H265]
+http://pfsv.io:80/0695849302/59593/30289
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Premiere" logo="http://p6.vc/f0a", Premiere 7 FHD [H265]
+http://pfsv.io:80/0695849302/59593/30290
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Premiere" logo="http://z4.vc/l5p", Premiere Club HD
+http://pfsv.io:80/0695849302/59593/537
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Premiere" logo="http://z4.vc/l5p", Premiere Club 2 HD
+http://pfsv.io:80/0695849302/59593/531
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Premiere" logo="http://z4.vc/l5p", Premiere Club 3 HD
+http://pfsv.io:80/0695849302/59593/532
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Premiere" logo="http://z4.vc/l5p", Premiere Club 4 HD
+http://pfsv.io:80/0695849302/59593/533
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Premiere" logo="http://z4.vc/l5p", Premiere Club 5 HD
+http://pfsv.io:80/0695849302/59593/534
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Premiere" logo="http://z4.vc/l5p", Premiere Club 6 HD
+http://pfsv.io:80/0695849302/59593/535
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Premiere" logo="http://z4.vc/l5p", Premiere Club 7 HD
+http://pfsv.io:80/0695849302/59593/536
+#EXTINF:0 type="stream" channelId="-1" group="Canais | SporTV" logo="http://p6.vc/f0E", SporTV 2 FHD [H265]
+http://pfsv.io:80/0695849302/59593/30291
+#EXTINF:0 type="stream" channelId="2898" group="Canais | SporTV" logo="http://z4.vc/Fl2", SporTV 2 HD
+http://pfsv.io:80/0695849302/59593/557
+#EXTINF:0 type="stream" channelId="-1" group="Canais | SporTV" logo="http://p6.vc/f0F", SporTV 3 FHD [H265]
+http://pfsv.io:80/0695849302/59593/30292
+#EXTINF:0 type="stream" channelId="-1" group="Canais | SporTV" logo="http://z4.vc/dyY", SporTV 3 HD
+http://pfsv.io:80/0695849302/59593/558
+#EXTINF:0 type="stream" channelId="-1" group="Canais | SporTV" logo="http://p6.vc/f0f", SporTV FHD [H265]
+http://pfsv.io:80/0695849302/59593/30293
+#EXTINF:0 type="stream" channelId="2897" group="Canais | SporTV" logo="http://z4.vc/ftu", SporTV  HD
+http://pfsv.io:80/0695849302/59593/556
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Telecine" logo="http://p6.vc/Sc", Telecine Action FHD[H265]
+http://pfsv.io:80/0695849302/59593/30242
+#EXTINF:0 type="stream" channelId="2603" group="Canais | Telecine" logo="http://z4.vc/cyv", Telecine Action HD
+http://pfsv.io:80/0695849302/59593/568
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Telecine" logo="http://p6.vc/Sd", Telecine Cult FHD[H265]
+http://pfsv.io:80/0695849302/59593/30243
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Telecine" logo="http://z4.vc/JWO", Telecine Cult HD
+http://pfsv.io:80/0695849302/59593/569
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Telecine" logo="http://p6.vc/Se", Telecine Fun FHD[H265]
+http://pfsv.io:80/0695849302/59593/30244
+#EXTINF:0 type="stream" channelId="2606" group="Canais | Telecine" logo="http://z4.vc/dpl", Telecine FUN HD
+http://pfsv.io:80/0695849302/59593/570
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Telecine" logo="http://p6.vc/Sf", Telecine Pipoca FHD[H265]
+http://pfsv.io:80/0695849302/59593/30245
+#EXTINF:0 type="stream" channelId="2608" group="Canais | Telecine" logo="http://z4.vc/8dT", Telecine Pipoca HD
+http://pfsv.io:80/0695849302/59593/572
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Telecine" logo="http://p6.vc/Sg", Telecine Premium FHD[H265]
+http://pfsv.io:80/0695849302/59593/30246
+#EXTINF:0 type="stream" channelId="2610" group="Canais | Telecine" logo="http://z4.vc/jgo", Telecine Premium HD
+http://pfsv.io:80/0695849302/59593/573
+#EXTINF:0 type="stream" channelId="-1" group="Canais | Telecine" logo="http://p6.vc/Sh", Telecine Touch FHD[H265]
+http://pfsv.io:80/0695849302/59593/30247
+#EXTINF:0 type="stream" channelId="2611" group="Canais | Telecine" logo="http://z4.vc/c1M", Telecine Touch HD
+http://pfsv.io:80/0695849302/59593/571
